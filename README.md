@@ -2,6 +2,7 @@
 
 ![purpose](https://img.shields.io/badge/purpose-learning-green.svg)
 ![PyPI](https://img.shields.io/pypi/v/olek?color=green)
+[![codecov](https://codecov.io/gh/lfbos/olek/branch/master/graph/badge.svg?token=C6UNS3Z3AL)](https://codecov.io/gh/lfbos/olek)
 
 Olek is a simple python web framework built for learning purposes.
 
