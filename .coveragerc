@@ -1,0 +1,2 @@
+[run]
+omit = venv/*,test_olek.py,conftest.py,app.py,setup.py
