@@ -144,3 +144,8 @@ class S1mpleCustomMiddleware(Middleware):
 
 
 app.add_middleware(S1mpleCustomMiddleware)
+```
+
+## Example
+
+To see a detailed example go to [olek-webapp-example](https://github.com/lfbos/olek-webapp-example)
